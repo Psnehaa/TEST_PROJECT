@@ -1,4 +1,4 @@
 # TEST_PROJECT
 Demo2
-Hi humanssss!
-sneha here...this is my demo project.
+Hi humans!
+sneha here...this is my first ever project using git.
